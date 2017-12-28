@@ -1,5 +1,7 @@
 # synchronized-array-shuffle
 
+[![Build Status](https://travis-ci.org/rwieruch/synchronized-array-shuffle.svg?branch=master)](https://travis-ci.org/rwieruch/synchronized-array-shuffle)
+
 Shuffle multiple arrays [randomly](https://www.npmjs.com/package/knuth-shuffle) and keep them synchnorized.
 
 ## Install & Usage
